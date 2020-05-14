@@ -1,0 +1,4 @@
+product_url,expected_price,email
+https://www.aliexpress.com/item/4000018335900.html,300,notify email
+https://www.aliexpress.com/item/4000907046153.html,850,notify email
+https://www.aliexpress.com/item/4000203569385.html,1500,notify email
